@@ -6,7 +6,7 @@ The dataset used in this project contains historical stock data for NVIDIA (NVDA
 
 The main goal of this project is to practice working with data, using code to answer questions, and understanding how data can be used to find meaningful insights. This helps me build skills that are important for real-world software and data-related applications.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=Cr2Nk4bCuFM&feature=youtu.be)
 
 # Data Analysis Results
 
